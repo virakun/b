@@ -50,19 +50,19 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6281228070013', '𝑍𝐼𝑅𝑂-𝑀𝐷', true],
+['6281228070013', 'Yahiko-𝑀𝐷', true],
 ]
 global.autoketik = true //status auto mengetik (auto typing)
 global.available = true //status online (online)
 // Other
-global.mods = ['621228070013']
-global.prems = ['6281228070013']
-global.nomorbot = '62882007157628'
-global.nameown = '𝑍𝐼𝑅𝑂-𝑀𝐷'
-global.nomorown = '6281228070013'
-global.nomorown1 = '6281228070013'
-global.nomorown2 = '6281228070013'
-global.nomorwa = '081228070013'
+global.mods = ['6289602147992']
+global.prems = ['6289602147992']
+global.nomorbot = '6289602147992'
+global.nameown = 'Yahiko-𝑀𝐷'
+global.nomorown = '6289602147992'
+global.nomorown1 = '6289602147992'
+global.nomorown2 = '62882022339839'
+global.nomorwa = '09602147992'
 global.limitawal = {
 
     premium: "Infinity",
@@ -74,39 +74,39 @@ global.limitawal = {
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.gcname = '𝑍𝐼𝑅𝑂-𝑀𝐷'//nama group kalian
-global.author = '𝗭𝗶𝗿𝗼-𝗠𝗗' //ganti aja cuyyy
-global.namebot = '​𝗭𝗶𝗿𝗼𝗕𝗼𝘁𝘇-𝗠𝗗' //nama bot luh
-global.wm = '© 𝑍𝐼𝑅𝑂-𝑀𝐷' //ganti aja
+global.gcname = 'Yahiko-𝑀𝐷'//nama group kalian
+global.author = 'Doi-𝗠𝗗' //ganti aja cuyyy
+global.namebot = ''Yahiko-𝗠𝗗' //nama bot luh
+global.wm = '© Yahiki-𝑀𝐷' //ganti aja
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg' //bebas
-global.wm = '𝑍𝐼𝑅𝑂-𝑀𝐷 ' //wm nyaa kocak
+global.wm = 'Yahiko-𝑀𝐷 ' //wm nyaa kocak
 global.watermark = wm //bebas
-global.wm2 = '𝑍𝐼𝑅𝑂-𝑀𝐷' //ganti ajaa
-global.wm3 = '𝗭𝗶𝗿𝗼𝗕𝗼𝘁𝘇-𝗠𝗗 by 𝑍𝐼𝑅𝑂-𝑀𝐷' // ganti jugaa
+global.wm2 = 'Yahiko-𝑀𝐷' //ganti ajaa
+global.wm3 = 'Yahiko-𝗠𝗗 by 𝑍𝐼𝑅𝑂-𝑀𝐷' // ganti jugaa
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`//ga usah dehhh 
 global.bottime = `T I M E : ${wktuwib}` //ini juga ga usah 
-global.titlebot = `𝑍𝐼𝑅𝑂-𝑀𝐷 | 𝑍𝐼𝑅𝑂-𝑀𝐷` //ganti aja
-global.stickpack = '𝑍𝐼𝑅𝑂-𝑀𝐷' //ganti 
-global.stickauth = `© 𝑍𝐼𝑅𝑂-𝑀𝐷` //gantii 
+global.titlebot = `Yahiko-𝑀𝐷 | Yahiko-𝑀𝐷` //ganti aja
+global.stickpack = 'Yahiko-𝑀𝐷' //ganti 
+global.stickauth = `© Yahiki-𝑀𝐷` //gantii 
 global.week = `${week} ${date}` //Gak usah
 global.wibb = `${wktuwib}` // Gak usah 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= '𝑍𝐼𝑅𝑂-𝑀𝐷' //ganti 
-global.nameown2 = '𝑍𝐼𝑅𝑂-𝑀𝐷' //ganti 
+global.nameown1= 'Yahiko-𝑀𝐷' //ganti 
+global.nameown2 = 'Yahiko-𝑀𝐷' //ganti 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Tunggu Sebentar Kak...'
 global.lynk = 'https://chat.whatsapp.com/LMoogYB7Fjc3v1ep9GwBG2'//ganti jadi link gc luh
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/l4c1f2r' //ganti jadi ig mu
-global.sgh = 'https://github.com/Lucife-Putra' //github
+global.sig = 'https://instagram.com/l4c' //ganti jadi ig mu
+global.sgh = 'https://github.com/Luc' //github
 global.sgc = 'https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff' //group whatsapp
 global.gcwangsaf = 'https://chat.whatsapp.com/LMoogYB7Fjc3v1ep9GwBG2' //Group wa juga 
-global.fakeyt = 'https://youtube.com/@Ziro-MD_Official' //Yt jika punya
+global.fakeyt = 'https://youtube.com/@Ziro' //Yt jika punya
 global.sdc = '-' //discord klo ga punya ga usah biarin aja
 global.sfb = 'https://www.facebook.com/' // facebook
-global.snh = 'https://youtube.com/@Ziro-MD_Official' //yt klo punya 
+global.snh = 'https://youtube.com/@Official' //yt klo punya 
 global.wame = 'https://api.whatsapp.com/send?phone=+6283863727401' //Tautan Wa Kalian
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
@@ -160,8 +160,8 @@ global.md = '_In progress, please wait..._'
 global.benar = '𝙶𝚘𝚘𝚍 𝙹𝚘𝚋𝚋! ◕◡◕'
 global.salah = '𝙽𝚘𝚝 𝙱𝚊𝚍! ◕◠◕'
 global.dikit = "𝙳𝚒𝚔𝚒𝚝 𝙻𝚊𝚐𝚒,𝚂𝚎𝚖𝚊𝚗𝚐𝚊𝚝!!"
-global.syt = 'https://youtube.com/@Ziro-MD_Official' //youtube
-global.sytv = 'https://youtube.com/@Ziro-MD_Official'//link video yt
+global.syt = 'https://youtube.com/@Ziro' //youtube
+global.sytv = 'https://youtube.com/@ziro'//link video yt
 global.packname = wm
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ RPG GAME ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
@@ -559,9 +559,9 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 
 
 global.dtu = '?????????'
-global.urlnya = "https://www.instagram.com/l4c1f2r"
+global.urlnya = "https://www.instagram.com/l4c1f"
 global.dtc = '???? ?????'
-global.phn = '0812-2807-0013'
+global.phn = '0896-0214-7992'
 global.ultahowner = 'JULI 12 2023' //ultah luh 😭
 
 
