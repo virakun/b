@@ -55,14 +55,14 @@ global.owner = [
 global.autoketik = true //status auto mengetik (auto typing)
 global.available = true //status online (online)
 // Other
-global.mods = ['6289602147992']
-global.prems = ['6289602147992']
-global.nomorbot = '62882022339839'
+global.mods = ['621228070013']
+global.prems = ['6281228070013']
+global.nomorbot = '62882007157628'
 global.nameown = '𝑍𝐼𝑅𝑂-𝑀𝐷'
-global.nomorown = '6289602147992'
-global.nomorown1 = '6289602147992'
-global.nomorown2 = '6289602147992'
-global.nomorwa = '089602147992'
+global.nomorown = '6281228070013'
+global.nomorown1 = '6281228070013'
+global.nomorown2 = '6281228070013'
+global.nomorwa = '081228070013'
 global.limitawal = {
 
     premium: "Infinity",
